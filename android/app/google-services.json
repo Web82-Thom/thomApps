@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "230393683237",
+    "firebase_url": "https://thom-apps-9103c-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "thom-apps-9103c",
+    "storage_bucket": "thom-apps-9103c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230393683237:android:96cae7efd51b04575b0ecc",
+        "android_client_info": {
+          "package_name": "com.example.thomapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230393683237-a1od287e7gaosncgfpvcfacjhh0d3d2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-Swma95Vp0vI6IytcgZ7UqTapjw1VTF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230393683237-a1od287e7gaosncgfpvcfacjhh0d3d2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230393683237:android:d75c424866855e675b0ecc",
+        "android_client_info": {
+          "package_name": "com.thomDev.thomApps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230393683237-a1od287e7gaosncgfpvcfacjhh0d3d2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-Swma95Vp0vI6IytcgZ7UqTapjw1VTF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230393683237-a1od287e7gaosncgfpvcfacjhh0d3d2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
